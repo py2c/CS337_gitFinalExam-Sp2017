@@ -6,11 +6,15 @@
 
 !src
 !src/**
-!*.docx
+
+!libs
+!libs/**
 
 
 !*.txt
 !*.md
+!*.jpg
+!*.png
 
 
 # MAC HIDDEN FILES
